@@ -1,0 +1,81 @@
+
+Reciept No.: adk
+Username: k
+Name: k
+College: k
+Contact: k
+Email ID: k
+Score: -82
+------------------------------------------------------
+Reciept No.: 045
+Username: Amwat
+Name: Rahul
+College: PICT,MIt
+Contact: 9011020760
+Email ID: rahul.d23@gmail.com
+Score: 44
+------------------------------------------------------
+Reciept No.: harsh
+Username: hhh
+Name: hhh
+College:  , m. 
+Contact: 745
+Email ID: m, 
+Score: -39
+------------------------------------------------------
+Reciept No.: KQE
+Username: K
+Name: K
+College: K
+Contact: K
+Email ID: K
+Score: 10
+------------------------------------------------------
+Reciept No.: new
+Username: newn
+Name: newnnwne
+College: nfn
+Contact: newn
+Email ID: newn
+Score: 16
+------------------------------------------------------
+Reciept No.: 123
+Username: karna
+Name: dkna
+College: dkvn
+Contact: kdnk
+Email ID: dkvmk
+Score: 12
+------------------------------------------------------
+Reciept No.: k
+Username: k
+Name: k
+College: k
+Contact: k
+Email ID: k
+Score: 9
+------------------------------------------------------
+Reciept No.: 1010
+Username: kdthanvi
+Name: karan thanvi
+College: PICT
+Contact: 9404553270
+Email ID: thanvikaran95@gmail.com
+Score: 25
+------------------------------------------------------
+Reciept No.: k
+Username: k
+Name: k
+College: k
+Contact: k
+Email ID: k
+Score: 16
+------------------------------------------------------
+Reciept No.: t
+Username: t
+Name: tt
+College: t
+Contact: t
+Email ID: t
+Score: 81
+------------------------------------------------------
